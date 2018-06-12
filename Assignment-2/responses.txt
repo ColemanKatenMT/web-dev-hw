@@ -1,0 +1,7 @@
+# How data travels on the Internet
+
+# The relation between IP address and DNS
+
+# What is a cookie
+
+# The 3 basic parts of a URL
