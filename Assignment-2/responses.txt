@@ -1,7 +1,19 @@
 # How data travels on the Internet
 
+Data travels through the internet by going through routers from the server to your device.
+If a file is too big like a very nice picture it will split into packages and be sent to another device where it is reassembled to look like what you sent.
+often times different routes to the same computer are taken due to heavy traffic it then goes through a check list to make sure all the packages are there. When a piece is missing the receiving computer will ask for the missing pieces and then try to reassemble again.
+
 # The relation between IP address and DNS
+
+DNS is a mechanism to translate IP address to domain and vice versa.  If an IP address was a phone book the
+DNS would be considered a specific number found in the phone book.
 
 # What is a cookie
 
+A cookie is a memory system that the internet uses to track your activity on the web and remember you if you have visited a website before.
+Cookies are often used in online shopping for example to keep you logged in so you don't need re-enter your email, passwords and/or credit card information.
+
 # The 3 basic parts of a URL
+
+The 3 basic parts of a URL are the domain name the protocol and path.
