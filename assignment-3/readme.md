@@ -1,13 +1,7 @@
-## Assignment 2
+## Assignment 3
 
-A _Version Control System_ is
+In any web page there can only be one Head and Body element, and for example inside the head elemets is where we find things about how the website is set up, and inside the body element is where we find everything that is viewable to the visitor.
+The difference between structural markup and semantic markup is that structural is the big idea like this goes here and this goes there, the semantic mark up then goes in and is sort of the guy who dots the i and crosses the t, he interprets the stuctural markup and makes it look neat.
+I spent this week catching up I kind of ran through the materials and started the project and went through googling alot of things I did look at the website which was very helpfull I read through the material provided on the website but this week was ver fluid and I felt as if I was really getting my feet under me during this week.  I also did switch from atom to Notepad and have had alot more ease with what I have been doing I find both helpfull but notepad more userfriendly and cut and dry not so mant places to get lost.
 
-a fast and easy way to keep track of all the changes and edits you make in a software or in coding it remembers everything you change and has a function for you to include the reason why you changed something.  One really great reason for version control is when collaborating on a piece it tracks all the changes everyone is making and allows all the contributing parties to work on a single piece at one time.  It allows everyone to work on different pieces or even the same piece at one time and then in the end come together for a unified effect.  Lastly version control isn't just a program for beginners even though it is user friendly to those who are just starting out it also grows with the user and is really a one stop shop offering a lot of different tools from beginners to experts.
 
-My [Responses](./responses.txt)
-
-###  Work Cycle
-
-For this assignment I found very helpful to split it into sections.  My first section was to absorb as much information about repositories as I could I went through the demos first then watched some YouTube videos.  Next I watched the class videos on how data travels and all the things that a document must go through to go from point a to point b and then back to point a again. finally I started in on the assignment things went fairly smooth and when I had a question I was able to look most them up on the website which was very helpful.
-
-![My first Image](./Images/Screenshot1.png)
