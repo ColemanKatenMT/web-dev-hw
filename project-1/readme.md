@@ -17,4 +17,4 @@ Titles for everything and a lot more complex to navigate but we have adapted and
 My work cycle for this project was not very user friendly I had to get new browsers, I needed to email github for
 help then finally I had to take my computer in to get help to try to create an html.  I did end up figuring it out
 and it has been very easy sailing since then.
-<img src="images/screenshot.png" width="200" height="150"
+<img src="images/screenshot.png" width="200" height="150">
