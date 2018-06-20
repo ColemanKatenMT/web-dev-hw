@@ -1,7 +1,10 @@
-## Assignment 3
+## Assignment 4
+What is alt text?
+The alt text is an alternative way for people who may have a seeing disorder to still have the oppertunity to know what a picture is talking about or what its supposed to be about without actually seeing it.
+What forms of alt text have I ran into and what purpose do they serve?
+I feel like I have become very numb to alt text boxes just because of how often that I see them on the internet. I grew up in a very protective home my mom nearly prided herself on how secure all her websites and emails and passwords were but being in college I tend to get irritated when those alt text boxes dont remember my infor but I do see them fairly often yet while signing up for new subscriptions and what not.
+Work I did for this assignment.
+For this assignment I considered it the most challenging so far but I did give it 100%. I started out by reading the material then I copy and pasted assignment3 into a new folder changed the name so that my foundation was still there and from there I took it step by step looking things up as I had questions and became very pleased with how the assignment turned out.
 
-In any web page there can only be one Head and Body element, and for example inside the head elemets is where we find things about how the website is set up, and inside the body element is where we find everything that is viewable to the visitor.
-The difference between structural markup and semantic markup is that structural is the big idea like this goes here and this goes there, the semantic mark up then goes in and is sort of the guy who dots the i and crosses the t, he interprets the stuctural markup and makes it look neat.
-I spent this week catching up I kind of ran through the materials and started the project and went through googling alot of things I did look at the website which was very helpfull I read through the material provided on the website but this week was ver fluid and I felt as if I was really getting my feet under me during this week.  I also did switch from atom to Notepad and have had alot more ease with what I have been doing I find both helpfull but notepad more userfriendly and cut and dry not so mant places to get lost.
-<img src="./images/mint3shot.jpg">
+
 
