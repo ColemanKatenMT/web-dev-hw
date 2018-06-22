@@ -1,10 +1,10 @@
-## Assignment 4
-What is alt text?
-The alt text is an alternative way for people who may have a seeing disorder to still have the oppertunity to know what a picture is talking about or what its supposed to be about without actually seeing it.
-What forms of alt text have I ran into and what purpose do they serve?
-I feel like I have become very numb to alt text boxes just because of how often that I see them on the internet. I grew up in a very protective home my mom nearly prided herself on how secure all her websites and emails and passwords were but being in college I tend to get irritated when those alt text boxes dont remember my infor but I do see them fairly often yet while signing up for new subscriptions and what not.
-Work I did for this assignment.
-For this assignment I considered it the most challenging so far but I did give it 100%. I started out by reading the material then I copy and pasted assignment3 into a new folder changed the name so that my foundation was still there and from there I took it step by step looking things up as I had questions and became very pleased with how the assignment turned out.
+## Assignment 5
+Divs help you categorize material and seperate them into groups
+Classes are used in the same way that divs are used but instead of categorizing material the classes categorize the divs by finding what they have in common with eachother.
+id is what gives a certain description to an html element and lets us know what it is used for and in what case.
+spans are how we break up divs into their own sub categories.
 
+The reason you would choose a 3rd party site over a self hosted media is becasue the 3rd party site is a way to reach over all web browsers they are in terms of the internet already "decorated" and if you are a begginer a self hosted site might not be as user friendly as a 3rd party hoster.
 
-
+this assignment was enjoyable it brought mme back to why I started coding which was to like others work like videos and songs into my own site this assignment was very helpful and I learned enough to feel comfortable in starting my own site soon,
+<img src="./images/screen.png">
