@@ -7,4 +7,4 @@ spans are how we break up divs into their own sub categories.
 The reason you would choose a 3rd party site over a self hosted media is becasue the 3rd party site is a way to reach over all web browsers they are in terms of the internet already "decorated" and if you are a begginer a self hosted site might not be as user friendly as a 3rd party hoster.
 
 this assignment was enjoyable it brought mme back to why I started coding which was to like others work like videos and songs into my own site this assignment was very helpful and I learned enough to feel comfortable in starting my own site soon,
-<img src="./images/screen.png">
+<"img src="images/screen.png" width="600px"">
