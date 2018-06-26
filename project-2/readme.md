@@ -1,10 +1,17 @@
-## Assignment 5
-Divs help you categorize material and seperate them into groups
-Classes are used in the same way that divs are used but instead of categorizing material the classes categorize the divs by finding what they have in common with eachother.
-id is what gives a certain description to an html element and lets us know what it is used for and in what case.
-spans are how we break up divs into their own sub categories.
+## Project 2
+Goodness HTML it has been fun I honestly feel like it was just yesterday I was making my first read me and now look at me 
+I completed project 2 I really put my best foot forward and fell like I gave it 100%. Learning what all the diferent symbols on 
+my computer do was kind of a plase the arrows and slashes mean a lot more to me now then they did when I first started and all in
+all I didn't know what to expect but now that I have finished it, it all seems doable.
 
-The reason you would choose a 3rd party site over a self hosted media is becasue the 3rd party site is a way to reach over all web browsers they are in terms of the internet already "decorated" and if you are a begginer a self hosted site might not be as user friendly as a 3rd party hoster.
+Oh boy, CSS I feel like I don't know what to expect most comparably I have the same what feels inocent feeling twords CSS as 
+I did with HTML but after fininshing HTML I might want to start feeling like a sheep being lead to well hopefully a nice green 
+pastor but we will see.
 
-this assignment was enjoyable it brought mme back to why I started coding which was to like others work like videos and songs into my own site this assignment was very helpful and I learned enough to feel comfortable in starting my own site soon.
-<img src="images/screenshot.jpg" width="600px">
+As far as my work cycle went this assignment was just a lot of regurgitating things that we have learned in the prior weeks and I 
+think that the two hardest things that I had to do for this assignment was just finding time to sit down and type this bad boy out 
+and the second hardest thing was finding something that I wanted to make a website for.
+
+I didnt really have any issues it was pretty smooth sailing but if I had to choose the hardest thing was finding something to make a how to about.
+
+<img src=".\images\screen.jpg"/>
