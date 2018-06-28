@@ -1,10 +1,11 @@
+##Assignment 7
+for this assignment I wanted to do some halloween colors to go along with the shining because it is one of the scariest books
+I have ever seen. I am not much of a reader but I do love movies, and it is one of my families favorite movies.
 
-As far as history went I think that the most of our advancments were made in the 60's, and when people refer to making America great again 
-I believe that they are talking about the 60's. I choose the spacy background because it was the decade when we obviouslmade it to the Moon and I thought theat it was relatable.
+The fonts that I choose to use I looked up but unfortunatally it doesnt seem like they are working very well.
 
-My color scheme for this assignment was the space background and then to be able to see I wanted to use marroon.  
+During this week I have been really busting my butt to get as much done as fast as I could cause I do want to get
+credit for everything that I can get done. but if I have time I would like to come back and work through some of the material again.
+<img src="./screen.jpg">
 
-My work cycle for this assignment was very hecticI felt like I was drowning in material and really felt like I didn't
-really make any advancments this week and I saw a picture that summed up how I felt this week and I said that my code isn't working and 
-I don't know why then right below that it was the same picture and it said my code is working and I don't know why. 
-<img src=".\images\screen.png"/>
+
