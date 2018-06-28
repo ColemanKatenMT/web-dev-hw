@@ -1,0 +1,12 @@
+h1 {font-family: 'nosifer'; font-size: 22pt; font-style: normal;}
+h2 {font-family: 'Creepster'; font-size: 26pt; font-style: normal;}
+h3 {font-family: 'butcherman'; font-size: 14pt; font-style: normal;}
+p {font-family: 'de-walpergens-pica'; font-size: 14pt; line-height: 3; font-style: normal;}
+p1 {font-family: 'de-walpergens-pica'; font-size: 14pt; line-height: 2; font-style: normal;}
+p2 {font-family: 'de-walpergens-pica'; font-size: 14pt; line-height: 3; font-style: normal;}
+p::first-line{color: #8B0000;}
+p::second-line{color: #FF8C00;}
+a:link {color:#FF8C00;}
+a:visited{color:blue;}
+a:hover{color:blue; font-style:italic;}
+a {font-family: 'de-walpergens-pica'; font-size: 16pt;}
