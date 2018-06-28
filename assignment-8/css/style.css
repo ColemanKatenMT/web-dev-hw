@@ -1,0 +1,11 @@
+h1 {font-family: 'Comic Sans MS'; background-color: black; text-align: center; margin-bottom: 5em; }
+h2 {font-family: 'Lucida Grande'; font-size: 26pt; font-style: normal;}
+h3 {font-family: 'butcherman'; font-size: 14pt; font-style: normal;}
+p {font-family: 'Papyrus'; background-color: black; opacity: 0.5; font-size: 14pt; line-height: 3; font-style: normal;}
+p1 {font-family: 'Brush Script MT'; font-size: 14pt; line-height: 2; font-style: normal;}
+p2 {font-family: 'Lucida Console'; font-size: 14pt; line-height: 3; font-style: normal;}
+p3 {font-family: 'Papyrus'; font-size: 14pt; line-height: 3; font-style: normal;}
+p::first-line{color: #8B0000;}
+p::second-line{color: #FF8C00;}
+a:link {color:#FF8C00;}
+a {font-family: 'de-walpergens-pica'; font-size: 16pt;}
