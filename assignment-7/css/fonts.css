@@ -1,0 +1,10 @@
+<style>
+@import "font-family: 'Ubuntu',"Trebuchet MS",Trebuchet,Verdana,Helvetica,Arial,sans-serif";
+
+@font-face {
+font-family: 'youmurdererbb';
+src: url('../fonts/youmurdererbb_reg.ttf') format('truetype');
+font-weight:normal;
+font-style:normal;
+}
+</style>
