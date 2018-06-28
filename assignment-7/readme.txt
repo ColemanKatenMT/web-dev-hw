@@ -6,6 +6,6 @@ The fonts that I choose to use I looked up but unfortunatally it doesnt seem lik
 
 During this week I have been really busting my butt to get as much done as fast as I could cause I do want to get
 credit for everything that I can get done. but if I have time I would like to come back and work through some of the material again.
-<img src="./screen.jpg">
+<img src="./screen.png">
 
 
